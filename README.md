@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Reinhardt de Beer, a creative <br>and passionate Mobile and Web Developer from South Africa. Welcome to my GitHub repository, where I love to explore, learn, and collaborate on exciting projects</p>
+<p align="left">I'm Reinhardt de Beer, a creative and passionate Mobile and Web Developer from South Africa. Welcome to my GitHub repository, where I love to explore, learn, and collaborate on exciting projects</p>
 
 ###
 
