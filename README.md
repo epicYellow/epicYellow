@@ -141,15 +141,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img height="400" src=""Mockup_Two.png"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="400" src=""Mockup_Three.png"  />
-</div>
-
-###
