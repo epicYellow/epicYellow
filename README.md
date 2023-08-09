@@ -86,23 +86,11 @@
 
 ###
 
-<h1 align="left">Photography Enthusiast 📷</h1>
-
-###
-
-<p align="left">Photography is the best thing after toasted bread. I find joy in freezing moments in time and telling stories through images.</p>
-
-###
-
-<p align="left">https://www.instagram.com/rdb_fotopatat/</p>
-
-###
-
 <h1 align="left">Fusing Creativity with Development 🌐📱</h1>
 
 ###
 
-<p align="left">One of my core strengths lies in blending creativity with my development skills. I enjoy crafting visually appealing and highly functional applications that leave a lasting impression by fusing blender and my photography into my work.</p>
+<p align="left">One of my core strengths lies in blending creativity with my development skills. I enjoy crafting visually appealing and highly functional applications that leave a lasting impression by fusing blender and photography into my work. For example, in my Project called RecipeRumble I created the loading indicator with blender, the possibilities for user feedback are endless. Keep improving the process I recently discovered I can export in SVG's from Blender, which I can use to animate with css rather than to create a gif.</p>
 
 ###
 
@@ -110,7 +98,7 @@
 
 ###
 
-<p align="left">Recently, I've dived headfirst into the exciting realms of machine learning and data science. The potential to derive meaningful insights from vast datasets and build intelligent systems fascinates me.</p>
+<p align="left">Recently, I've dived into the interesting world of machine learning and data science. The potential to derive meaningful insights from vast datasets and build intelligent systems fascinates me. Of which Im planning to further drive the user experience within my other projects and gain more understanding on how I can improve them.</p>
 
 ###
 
