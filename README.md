@@ -102,7 +102,7 @@
 
 ###
 
-<p align="left">One of my core strengths lies in blending creativity with my development skills. I enjoy crafting visually appealing and highly functional applications that leave a lasting impressions by fusing blender and my photography into my work.</p>
+<p align="left">One of my core strengths lies in blending creativity with my development skills. I enjoy crafting visually appealing and highly functional applications that leave a lasting impression by fusing blender and my photography into my work.</p>
 
 ###
 
@@ -130,26 +130,26 @@
 
 ###
 
-<p align="left">Recipe Rumble is a dynamic application built entirely in JavaScript using React Native Expo. It serves as a platform where users can engage in posting, voting, and exploring various recipes and food related competitions. With the ability to sign up and log in, users can personalize their experience by updating their profile images. The app ensures that all recipes are archived even after events have concluded, allowing users to revisit them at any time. Additionally, Recipe Rumble makes way to the discovery of new recipes and provides users with the option to share their own recipe creations.</p>
+<p align="left">Recipe Rumble is a dynamic application built entirely in JavaScript using React Native Expo. It serves as a platform where users can engage in posting, voting, and exploring various recipes and food-related competitions. With the ability to sign up and log in, users can personalize their experience by updating their profile images. The app ensures that all recipes are archived even after events have concluded, allowing users to revisit them at any time. Additionally, Recipe Rumble makes way to the discovery of new recipes and provides users with the option to share their own recipe creations.</p>
 
 <a href="https://github.com/epicYellow/RecipeRumble-Improved">Link to project</a>
 
 ###
 
 <div align="center">
-  <img height="400" src="https://drive.google.com/uc?export=view&id=1qTuNBnpww7ky2ZnX-820ytEBT995V2jg"  />
+  <img height="400" src="Mockup_One.png"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="400" src="https://drive.google.com/uc?export=view&id=1IdOEVV_v4SADQpSkXFj7IBFVHCVh3EzW"  />
+  <img height="400" src=""Mockup_Two.png"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="400" src="https://drive.google.com/uc?export=view&id=1Br7ftO-Am4P1OS8bNTsq8qyYkmbLgW-q"  />
+  <img height="400" src=""Mockup_Three.png"  />
 </div>
 
 ###
