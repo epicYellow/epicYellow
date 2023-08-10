@@ -94,11 +94,19 @@
 
 ###
 
+<div align="center">
+  <img src="2023-08-10 14-37-09.gif" height="150" alt="stats graph"  />
+</div>
+
+<div align="center">
+  <img src="2023-08-10 14-37-33.gif" height="150" alt="stats graph"  />
+</div>
+
 <h1 align="left">Exploring the World of Machine Learning and Data Science 🤖📊</h1>
 
 ###
 
-<p align="left">Recently, I've dived into the interesting world of machine learning and data science. The potential to derive meaningful insights from vast datasets and build intelligent systems fascinates me. Of which Im planning to further drive the user experience within my other projects and gain more understanding on how I can improve them.</p>
+<p align="left">Recently, I've dived into the interesting world of machine learning and data science. The potential to derive meaningful insights from vast datasets and build intelligent systems fascinates me. Which Im planning to further drive the user experience within my other projects and gain more understanding on how I can improve them.</p>
 
 ###
 
