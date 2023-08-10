@@ -95,11 +95,11 @@
 ###
 
 <div align="center">
-  <img src="2023-08-10 14-37-09.gif" height="150" alt="stats graph"  />
+  <img src="2023-08-10 14-37-09.gif" height="350" alt="stats graph"  />
 </div>
 
 <div align="center">
-  <img src="2023-08-10 14-37-33.gif" height="150" alt="stats graph"  />
+  <img src="2023-08-10 14-37-33.gif" height="350" alt="stats graph"  />
 </div>
 
 <h1 align="left">Exploring the World of Machine Learning and Data Science 🤖📊</h1>
