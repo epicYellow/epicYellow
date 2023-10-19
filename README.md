@@ -134,5 +134,19 @@ Month-End Closure: Streamline the process of closing each month, ensuring accura
 <a href="https://github.com/epicYellow/WIndowsEncoded-React">Link to project</a>
 
 <div align="center">
-  <img height="400" src="innoMock.png"  />
+  <img height="400" src="windowMock.jpg"  />
+</div>
+
+###
+
+<h2 align="left">Step By Step</h2>
+
+###
+
+<p align="left">Step By Step is a meticulously crafted application, built with Xcode IDE and SwiftUI, dedicated to helping you manage and organize a treasure trove of DIY recipes and outdoor project ideas. Our chosen theme revolves around the great outdoors, with a special focus on Patios, Fireplaces, Plants, and Wood Builds.</p>
+
+<a href="https://github.com/epicYellow/StepByStep-IOS">Link to project</a>
+
+<div align="center">
+  <img height="400" src="windowMock.jpg"  />
 </div>
