@@ -152,6 +152,21 @@ Month-End Closure: Streamline the process of closing each month, ensuring accura
 </div>
 
 ###
+
+<h2 align="left">Step By Step</h2>
+
+###
+
+<p align="left">Timely Lemon is a trivia android app developed in Android Studio using Kotlin. This trivia app is based on pop culture from the 70's to the 90's. Based on your score you'll find out in which era you were supposed to be born.</p>
+
+<a href="https://github.com/epicYellow/TImelyLemon-Android">Link to project</a>
+
+<div align="center">
+  <img height="400" src="stepMock.jpg"  />
+</div>
+
+###
+
 <h2>Personal Endeavours</h2>
 
 <p align="left"> I love blending creativity with my development skills. I enjoy crafting visually appealing and highly functional applications that leave a lasting impression by fusing blender and photography into my work. For example, in my Project called RecipeRumble I created the loading indicator with Blender, the possibilities for user feedback are endless. Keep improving the process I recently discovered I can export in SVG's from Blender, which I can use to animate with CSS rather than to create a gif.</p>
