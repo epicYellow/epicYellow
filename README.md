@@ -15,6 +15,14 @@
 
 ###
 
+<h3>My Operating Systems</h3>
+
+####
+
+[![Android Badge One](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)]
+[![Windows Badge One](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]
+[![linux Badge One](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]
+
 <p></p>
 
 ###
