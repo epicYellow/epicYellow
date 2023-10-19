@@ -2,7 +2,18 @@
 
 ###
 
-<img src="kb.gif" width="80%" frameBorder="0" allowFullScreen align="center"/>
+[![Reinhardt GitHub Banner](./kb.gif)]
+
+###
+
+<h2 align="left">About Me</h2>
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
+[![LinkedIn Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
+
+###
+
+<p></p>
 
 ###
 
@@ -14,9 +25,11 @@
 
 ###
 
-<h2 align="left">My Coding Habits 👨🏻‍💻</h2>
+<h2 align="left">Featured Projects 👨🏻‍💻</h2>
 
 ###
+
+
 
 
 
