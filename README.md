@@ -83,13 +83,41 @@
 
 ###
 
-<h2 align="left">RecipeRumble Term - 2</h2>
+<h2 align="left">RecipeRumble</h2>
 
 ###
 
 <p align="left">Recipe Rumble is an application built entirely in JavaScript using React Native Expo. It serves as a platform where users can engage in posting, voting, and exploring various recipes and food-related competitions. With the ability to sign up and log in, users can personalize their experience by updating their profile images. The app ensures that all recipes are archived even after events have concluded, allowing users to revisit them at any time. Additionally, Recipe Rumble makes way to the discovery of new recipes and provides users with the option to share their own recipe creations.</p>
 
 <a href="https://github.com/epicYellow/RecipeRumble-Improved">Link to project</a>
+
+<div align="center">
+  <img height="400" src="Mockup_One.png"  />
+</div>
+
+###
+
+<h2 align="left">Innovex Bank</h2>
+
+###
+
+<p align="left">Innovex Bank is a robust and user-friendly bank management program developed using Maui and ASP.NET. This powerful tool is designed for bank administrators to streamline and simplify their daily operations.
+
+Key Features:
+
+Admin Management: Effortlessly manage your administrative team, assign roles, and control access.
+
+Transaction Tracking: Keep a watchful eye on all transactions, including transaction fees, deposits, withdrawals, and transfers, ensuring transparency and security.
+
+Client Management: Seamlessly oversee and manage client accounts, providing excellent customer service while maintaining data privacy and security.
+
+Account and Account Type Management: Define and maintain various account types and manage accounts effectively.
+
+Income Calculation: Automatically calculate income, making it easier to track financial performance and plan for the future.
+
+Month-End Closure: Streamline the process of closing each month, ensuring accurate financial reporting and compliance.</p>
+
+<a href="https://github.com/epicYellow/Innovex-Bank.App">Link to project</a>
 
 <div align="center">
   <img height="400" src="Mockup_One.png"  />
