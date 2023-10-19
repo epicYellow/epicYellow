@@ -2,7 +2,7 @@
 
 ###
 
-![Reinhardt GitHub Banner](./kb.gif)
+<img src="./kb.gif" width="100%" alt="Banner gif"/>
 
 ###
 
