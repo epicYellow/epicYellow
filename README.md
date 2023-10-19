@@ -148,5 +148,5 @@ Month-End Closure: Streamline the process of closing each month, ensuring accura
 <a href="https://github.com/epicYellow/StepByStep-IOS">Link to project</a>
 
 <div align="center">
-  <img height="400" src="windowMock.jpg"  />
+  <img height="400" src="stepMock.jpg"  />
 </div>
