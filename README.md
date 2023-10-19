@@ -162,7 +162,7 @@ Month-End Closure: Streamline the process of closing each month, ensuring accura
 <a href="https://github.com/epicYellow/TImelyLemon-Android">Link to project</a>
 
 <div align="center">
-  <img height="400" src="stepMock.jpg"  />
+  <img height="400" src="timeMock.png"  />
 </div>
 
 ###
