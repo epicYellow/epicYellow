@@ -12,11 +12,13 @@
 
 [![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/reinhardt-de-beer-00ab10203/)
-[![Instagram Badge One](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://www.instagram.com/rdb_fotopatat/)
+[![Instagram Badge One](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rdb_fotopatat/)
 
 ###
 
 <p></p>
+
+###
 
 <h3>📱 Contact Me!</h3>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](reinhardt.dev@gmail.com)
