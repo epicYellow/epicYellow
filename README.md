@@ -63,7 +63,7 @@
 
 ###
 
-<h3>📱 Contact Me!</h3>
+<h2>📱 Contact Me!</h2>
 
 ###
 
