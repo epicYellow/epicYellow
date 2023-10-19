@@ -79,7 +79,7 @@
 
 ###
 
-<h2 align="left">Featured Projects 👨🏻‍💻</h2>
+<h1 align="left">Featured Projects 👨🏻‍💻</h1>
 
 ###
 
@@ -101,7 +101,7 @@
 
 ###
 
-<p align="left">Innovex Bank is a robust and user-friendly bank management program developed using Maui and ASP.NET. This powerful tool is designed for bank administrators to streamline and simplify their daily operations.
+<p align="left">Innovex Bank is a robust and user-friendly bank management program developed using Maui and ASP.NET in a team of 3. This powerful tool is designed for bank administrators to streamline and simplify their daily operations.
 
 Key Features:
 
@@ -120,5 +120,19 @@ Month-End Closure: Streamline the process of closing each month, ensuring accura
 <a href="https://github.com/epicYellow/Innovex-Bank.App">Link to project</a>
 
 <div align="center">
-  <img height="400" src="Mockup_One.png"  />
+  <img height="400" src="innoMock.png"  />
+</div>
+
+###
+
+<h2 align="left">Windows Encoded</h2>
+
+###
+
+<p align="left">Windows Encoded is a forum for Open Window Interactive Development Students where they can ask and answer questions based on the content being taught throughout the year. Questions and answers can be upvoted and downvoted which will impact the user's reputation and overall score. Based on this score, badges can be earned leading the user one step closer to becoming an admin! This project was built using Mongo, Express, React, and Node.js.</p>
+
+<a href="https://github.com/epicYellow/WIndowsEncoded-React">Link to project</a>
+
+<div align="center">
+  <img height="400" src="innoMock.png"  />
 </div>
