@@ -153,7 +153,7 @@ Month-End Closure: Streamline the process of closing each month, ensuring accura
 
 ###
 
-<h2 align="left">Step By Step</h2>
+<h2 align="left">Timely Lemon</h2>
 
 ###
 
