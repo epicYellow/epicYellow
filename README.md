@@ -22,7 +22,7 @@
 
 ###
 
-<h3>My Knowledge</h3>
+<h3>What I Play Around With</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40"/>
@@ -34,12 +34,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40"/>
 </div>
 
@@ -53,12 +49,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40"/>
 </div>
 
 ###
@@ -67,7 +64,9 @@
 
 ###
 
-reinardt.de.beer@gmail.com
+- reinardt.de.beer@gmail.com
+
+- 0605038776
 
 ###
 
@@ -83,89 +82,115 @@ reinardt.de.beer@gmail.com
 
 ###
 
-<h2 align="left">RecipeRumble</h2>
+<h2 align="left">Inventorio</h2>
 
 ###
 
-<p align="left">Recipe Rumble is an application built entirely in JavaScript using React Native Expo. It serves as a platform where users can engage in posting, voting, and exploring various recipes and food-related competitions. With the ability to sign up and log in, users can personalize their experience by updating their profile images. The app ensures that all recipes are archived even after events have concluded, allowing users to revisit them at any time. Additionally, Recipe Rumble makes way to the discovery of new recipes and provides users with the option to share their own recipe creations.</p>
-
-<a href="https://github.com/epicYellow/RecipeRumble-Improved">Link to project</a>
+<p align="left">A web application developed using Angular, TypeScript, MongoDB and Express.js designed specifically to present the complex system that is Factorio’s inventory more simply. This project was part of our mission to create a full-stack web application using the MEAN stack, allowing users to sign in, manage their stock, and utilise crafting capabilities.
+</p>
 
 <div align="center">
-  <img height="400" src="Mockup_One.png"  />
+  <img height="100%" src="FacMock.png"  />
 </div>
 
 ###
+
+<h4>Features</h4>
+
+- Login
+- Add Location
+- Add Items to Location
+- Transfer items between locations
+- Craft Requirements
+- Craft
+
+<a href="https://github.com/epicYellow/Inventorio-Improved">Link to project</a>
+
+##
+
+<h2 align="left">Recipe Rumble</h2>
+
+###
+
+<p align="left">A cross-platform application developed with React Native and Expo. Providing a platform for not only sharing but also competing. As part of my journey in mobile app development, I created a competitive platform for Android and iOS users. Recipe Rumble allows users to sign up, dive into competitions, submit and vote on recipes, and see their results.
+</p>
+
+<div align="center">
+  <img height="100%" src="Mockup_One.png"  />
+</div>
+
+###
+
+<h4>Features</h4>
+
+- Login & Register
+- Create and View other Competitions
+- Description, Required Ingredients, Rules, Banner Image for Competition Pages
+- Competition Progress bar
+- Subnit entries
+- Vote Entries
+- View Competition results
+- Double tap to vote
+- Previous Submissions Saved
+
+<a href="https://github.com/epicYellow/RecipeRumble-Improved">Link to project</a>
+
+##
 
 <h2 align="left">Innovex Bank</h2>
 
 ###
 
-<p align="left">Innovex Bank is a robust and user-friendly bank management program developed using Maui and ASP.NET in a team of 3. This powerful tool is designed for bank administrators to streamline and simplify their daily operations.
-
-Key Features:
-
-Admin Management: Effortlessly manage your administrative team, assign roles, and control access.
-
-Transaction Tracking: Keep a watchful eye on all transactions, including transaction fees, deposits, withdrawals, and transfers, ensuring transparency and security.
-
-Client Management: Seamlessly oversee and manage client accounts, providing excellent customer service while maintaining data privacy and security.
-
-Account and Account Type Management: Define and maintain various account types and manage accounts effectively.
-
-Income Calculation: Automatically calculate income, making it easier to track financial performance and plan for the future.
-
-Month-End Closure: Streamline the process of closing each month, ensuring accurate financial reporting and compliance.</p>
-
-<a href="https://github.com/epicYellow/Innovex-Bank.App">Link to project</a>
+<p align="left">AWithin a group of 3, we set out to build a .Net Maui Bank Management system called Innovex Bank. Providing bank Employees with ways to administer their platform. Providing user roles (admins, staff), login, and management for the different roles and clients. Managing client accounts, and the ability to view all transaction fees, interest rates and close off each month.
+Based on the brief we distributed the pages evenly, thus I set out to tackle Account Management, Client Management, as well as Staff Management later in the development process.
+</p>
 
 <div align="center">
-  <img height="400" src="innoMock.png"  />
+  <img height="100%" src="InnoMock.png"  />
 </div>
 
 ###
 
-<h2 align="left">Windows Encoded</h2>
+<h4>Features I Provided</h4>
+
+- Add, Edit, Delete Clients, Accounts, and Staff
+- Withdrawl, Deposit and Transfer between accounts
+
+<a href="https://github.com/epicYellow/Innovex-Bank">Link to project</a>
+
+##
+
+<h2 align="left">Edubolt Ai</h2>
 
 ###
 
-<p align="left">Windows Encoded is a forum for Open Window Interactive Development Students where they can ask and answer questions based on the content being taught throughout the year. Questions and answers can be upvoted and downvoted which will impact the user's reputation and overall score. Based on this score, badges can be earned leading the user one step closer to becoming an admin! This project was built using Mongo, Express, React, and Node.js.</p>
+<a href="https://edubolt-ai-app.vercel.app/login">Deployment Link</a>
 
-<a href="https://github.com/epicYellow/WIndowsEncoded-React">Link to project</a>
+<p align="left">The research of a social problem and solving said problem with AI. During my high school years, I often found myself struggling to keep up with the pace of my classes. Teachers typically employed a single study method, catering to the learning styles of the fastest students, leaving many behind. This experience, coupled with research indicating widespread student uncertainty about effective study strategies and the pressure to succeed in college, prompted me to develop EduBolt, an AI study buddy.
+</p>
 
 <div align="center">
-  <img height="400" src="windowMock.jpg"  />
+  <img height="100%" src="EduMock.png"  />
 </div>
 
 ###
 
-<h2 align="left">Step By Step</h2>
+<h4>Features</h4>
 
-###
+- Login with authentication and Validation
+- Register with authentication and Validation
+- Add Plan and add plan Content
+- Store Plan Context for AI (VectorStore)
+- Generate Quiz Questions with answers and options
+- Generate Flash Questions with answers and options
+- Generate Content Summary with Keywords Based on the provided Timeline
+- Ai feedback on Quiz Results
+- Ai feedback on Flash Results
+- Results are stored
 
-<p align="left">Step By Step is a meticulously crafted application, built with Xcode IDE and SwiftUI, dedicated to helping you manage and organize a treasure trove of DIY recipes and outdoor project ideas. Our chosen theme revolves around the great outdoors, with a special focus on Patios, Fireplaces, Plants, and Wood Builds.</p>
+<a href="https://github.com/epicYellow/Edubolt-Ai">Link to project</a>
 
-<a href="https://github.com/epicYellow/StepByStep-IOS">Link to project</a>
-
-<div align="center">
-  <img height="400" src="stepMock.jpg"  />
-</div>
-
-###
-
-<h2 align="left">Timely Lemon</h2>
-
-###
-
-<p align="left">Timely Lemon is a trivia android app developed in Android Studio using Kotlin. This trivia app is based on pop culture from the 70's to the 90's. Based on your score you'll find out in which era you were supposed to be born.</p>
-
-<a href="https://github.com/epicYellow/TImelyLemon-Android">Link to project</a>
-
-<div align="center">
-  <img height="400" src="timeMock.png"  />
-</div>
-
-###
+##
 
 <h2>Personal Endeavours</h2>
 
