@@ -146,7 +146,7 @@ Based on the brief we distributed the pages evenly, thus I set out to tackle Acc
 </p>
 
 <div align="center">
-  <img height="100%" src="InnoMock.png"  />
+  <img height="100%" src="InoMock.png"  />
 </div>
 
 ###
