@@ -97,7 +97,7 @@
 - Create and View other Competitions
 - Description, Required Ingredients, Rules, Banner Image for Competition Pages
 - Competition Progress bar
-- Subnit entries
+- Submit entries
 - Vote Entries
 - View Competition results
 - Double tap to vote
@@ -111,7 +111,7 @@
 
 ###
 
-<p align="left">AWithin a group of 3, we set out to build a .Net Maui Bank Management system called Innovex Bank. Providing bank Employees with ways to administer their platform. Providing user roles (admins, staff), login, and management for the different roles and clients. Managing client accounts, and the ability to view all transaction fees, interest rates and close off each month.
+<p align="left"> Within a group of 3, we set out to build a .Net Maui Bank Management system called Innovex Bank. Providing bank Employees with ways to administer their platform. Providing user roles (admins, staff), login, and management for the different roles and clients. Managing client accounts, and the ability to view all transaction fees, interest rates, and close off each month.
 Based on the brief we distributed the pages evenly, thus I set out to tackle Account Management, Client Management, as well as Staff Management later in the development process.
 </p>
 
@@ -124,7 +124,7 @@ Based on the brief we distributed the pages evenly, thus I set out to tackle Acc
 <h4>Features I Provided</h4>
 
 - Add, Edit, Delete Clients, Accounts, and Staff
-- Withdrawl, Deposit and Transfer between accounts
+- Withdrawal, Deposit, and Transfer between accounts
 
 <a href="https://github.com/epicYellow/Innovex-Bank">Link to project</a>
 
@@ -136,7 +136,7 @@ Based on the brief we distributed the pages evenly, thus I set out to tackle Acc
 
 <a href="https://edubolt-ai-app.vercel.app/login">Deployment Link</a>
 
-<p align="left">The research of a social problem and solving said problem with AI. During my high school years, I often found myself struggling to keep up with the pace of my classes. Teachers typically employed a single study method, catering to the learning styles of the fastest students, leaving many behind. This experience, coupled with research indicating widespread student uncertainty about effective study strategies and the pressure to succeed in college, prompted me to develop EduBolt, an AI study buddy.
+<p align="left">The research of a social problem and solving said problem with AI. During my high school years, I often struggled to keep up with the pace of my classes. Teachers typically employed a single study method, catering to the learning styles of the fastest students, leaving many behind. This experience and research indicating widespread student uncertainty about effective study strategies and the pressure to succeed in college prompted me to develop EduBolt, an AI study buddy.
 </p>
 
 <div align="center">
