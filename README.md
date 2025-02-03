@@ -74,31 +74,7 @@
 
 ###
 
-<h2 align="left">Inventorio</h2>
-
-###
-
-<p align="left">A web application developed using Angular, TypeScript, MongoDB and Express.js designed specifically to present the complex system that is Factorio’s inventory more simply. This project was part of our mission to create a full-stack web application using the MEAN stack, allowing users to sign in, manage their stock, and utilise crafting capabilities.
-</p>
-
-<div align="center">
-  <img height="100%" src="FacMock.png"  />
-</div>
-
-###
-
-<h4>Features</h4>
-
-- Login
-- Add Location
-- Add Items to Location
-- Transfer items between locations
-- Craft Requirements
-- Craft
-
-<a href="https://github.com/epicYellow/Inventorio-Improved">Link to project</a>
-
-##
+[![roadmap.sh](https://roadmap.sh/card/wide/67a09463d7c9b4cc8b6dc295?variant=light)](https://roadmap.sh)
 
 <h2 align="left">Recipe Rumble</h2>
 
