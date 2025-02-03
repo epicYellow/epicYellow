@@ -70,11 +70,13 @@
 
 ###
 
-<h1 align="left">Featured Projects 👨🏻‍💻</h1>
+[![roadmap.sh](https://roadmap.sh/card/wide/67a09463d7c9b4cc8b6dc295?variant=light)](https://roadmap.sh)
 
 ###
 
-[![roadmap.sh](https://roadmap.sh/card/wide/67a09463d7c9b4cc8b6dc295?variant=light)](https://roadmap.sh)
+<h1 align="left">Featured Projects 👨🏻‍💻</h1>
+
+###
 
 <h2 align="left">Recipe Rumble</h2>
 
